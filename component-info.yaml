@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-cra
+  description: sgury
+  annotations:
+    github.com/project-slug: shmidt-i-test/itrweht9iu-cra
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i
